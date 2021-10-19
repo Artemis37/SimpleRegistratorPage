@@ -1,0 +1,15 @@
+C:\Users\hieu\source\repos\SimpleRegistrationPage\SimpleRegistratorPageLibrary\bin\Debug\net5.0\SimpleRegistratorPageLibrary.deps.json
+C:\Users\hieu\source\repos\SimpleRegistrationPage\SimpleRegistratorPageLibrary\bin\Debug\net5.0\SimpleRegistratorPageLibrary.runtimeconfig.json
+C:\Users\hieu\source\repos\SimpleRegistrationPage\SimpleRegistratorPageLibrary\bin\Debug\net5.0\SimpleRegistratorPageLibrary.runtimeconfig.dev.json
+C:\Users\hieu\source\repos\SimpleRegistrationPage\SimpleRegistratorPageLibrary\bin\Debug\net5.0\SimpleRegistratorPageLibrary.dll
+C:\Users\hieu\source\repos\SimpleRegistrationPage\SimpleRegistratorPageLibrary\bin\Debug\net5.0\ref\SimpleRegistratorPageLibrary.dll
+C:\Users\hieu\source\repos\SimpleRegistrationPage\SimpleRegistratorPageLibrary\bin\Debug\net5.0\SimpleRegistratorPageLibrary.pdb
+C:\Users\hieu\source\repos\SimpleRegistrationPage\SimpleRegistratorPageLibrary\obj\Debug\net5.0\SimpleRegistratorPageLibrary.csproj.AssemblyReference.cache
+C:\Users\hieu\source\repos\SimpleRegistrationPage\SimpleRegistratorPageLibrary\obj\Debug\net5.0\SimpleRegistratorPageLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hieu\source\repos\SimpleRegistrationPage\SimpleRegistratorPageLibrary\obj\Debug\net5.0\SimpleRegistratorPageLibrary.AssemblyInfoInputs.cache
+C:\Users\hieu\source\repos\SimpleRegistrationPage\SimpleRegistratorPageLibrary\obj\Debug\net5.0\SimpleRegistratorPageLibrary.AssemblyInfo.cs
+C:\Users\hieu\source\repos\SimpleRegistrationPage\SimpleRegistratorPageLibrary\obj\Debug\net5.0\SimpleRegistratorPageLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hieu\source\repos\SimpleRegistrationPage\SimpleRegistratorPageLibrary\obj\Debug\net5.0\SimpleRegistratorPageLibrary.dll
+C:\Users\hieu\source\repos\SimpleRegistrationPage\SimpleRegistratorPageLibrary\obj\Debug\net5.0\ref\SimpleRegistratorPageLibrary.dll
+C:\Users\hieu\source\repos\SimpleRegistrationPage\SimpleRegistratorPageLibrary\obj\Debug\net5.0\SimpleRegistratorPageLibrary.pdb
+C:\Users\hieu\source\repos\SimpleRegistrationPage\SimpleRegistratorPageLibrary\obj\Debug\net5.0\SimpleRegistratorPageLibrary.genruntimeconfig.cache
